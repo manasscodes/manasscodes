@@ -66,11 +66,32 @@
 
 <h3 align="left">My Stats</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manasscodes&radius=16&theme=react&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=manasscodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasscodes&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=manasscodes&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manasscodes&radius=16&theme=react&area=true&custom_title=Activity%20Graph&hide_border=true&hide_title=false" height="300" alt="activity-graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasscodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasscodes&locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manasscodes&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manas_verse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manas_verse" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manaskolaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaskolaskar" height="30" width="40" /></a>
+<a href="https://kaggle.com/manaskolaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manaskolaskar" height="30" width="40" /></a>
+<a href="https://instagram.com/itsmanaskolaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmanaskolaskar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manassolves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manassolves" height="30" width="40" /></a>
+<a href="https://discord.gg/3hcDVCs7rz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3hcDVCs7rz" height="30" width="40" /></a>
+</p>
