@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="12" />
+  <img width="12" /><br>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
