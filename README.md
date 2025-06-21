@@ -62,6 +62,21 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </div>
 
+### Speaking Languages which i am Learning
+
+<div align="left">
+  <a href="https://www.duolingo.com/profile/duo.manas">
+    <img src="assets/japan.png" alt="Japanese flag" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.duolingo.com/profile/duo.manas">
+    <img src="assets/german.png" alt="German flag" height="40" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.duolingo.com/profile/duo.manas">
+    <img src="assets/spain.png" alt="Spain flag" height="40" />
+  </a>
+</div>
+
+
 ###
 
 <h3 align="left">My Stats</h3>
