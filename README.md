@@ -65,15 +65,9 @@
 ### Speaking Languages which i am Learning
 
 <div align="left">
-  <a href="https://www.duolingo.com/profile/duo.manas">
-    <img src="assets/japan.png" alt="Japanese flag" height="40" style="margin-right: 8px;" />
-  </a>
-  <a href="https://www.duolingo.com/profile/duo.manas">
-    <img src="assets/german.png" alt="German flag" height="40" style="margin-right: 8px;" />
-  </a>
-  <a href="https://www.duolingo.com/profile/duo.manas">
-    <img src="assets/spain.png" alt="Spain flag" height="40" />
-  </a>
+  <img src="assets/japan.png" alt="Japanese flag" height="40" style="margin-right: 8px;" />
+  <img src="assets/german.png" alt="German flag" height="40" style="margin-right: 8px;" />
+ <img src="assets/spain.png" alt="Spain flag" height="40" />
 </div>
 
 
