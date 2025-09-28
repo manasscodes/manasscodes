@@ -19,7 +19,9 @@
   <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
@@ -27,33 +29,48 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
-  <img width="12" />
+  <img width="12" /> <br>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="sklearn logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" alt="Matplotlib logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="40" alt="Tensorflow"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
   <img width="12" /><br>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="40" alt="mac logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="40" alt="arch logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40" alt="ubuntu logo"  />
+  <img width="12" /><br>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  />
+   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
 </div>
 
 ### Speaking Languages which i am Learning
