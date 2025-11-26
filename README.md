@@ -1,76 +1,32 @@
-<h1 align="center">Hi 👋, I'm Manas Kolaskar</h1>
-<h3 align="center">Future SWE | On a journey through DSA, full-stack, and clean code</h3>
-
 <div align="center">
-  <img height="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+  <img src="https://github.com/manasscodes/manasscodes/blob/main/header.png" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
+<h1> Hey There! 👋 </h1>
+<p>
+  I'm Manas Kolaskar a self-Taught Software engineer pivoting to the forefront of AI innovation. I specialize in merging full-stack engineering with Machine Learning ,AI and NLP I build pixel-perfect applications powered by deep learning models, with a specific focus on creating the next generation of Agentic AI workflows.
+</p>
+<h2 align="left">About me</h2>
 
+📚 I'm currently learning **LLMs, Transformers & Neural Networks**<br>🎯 Goals: **To engineer end-to-end autonomous AI systems**<br>🎲 Fun fact: **I practice "Vibe Coding"—if it compiles, it's destiny.**
 
-- 🌱 I’m currently learning **Full-Stack Development , DSA & Problem Solving AI Engineering**
-
-- 👯 I’m looking to collaborate on ****Open-source full-stack AI tools / agentic projects** (Feel free to DM me if you’re building something cool with AI & TypeScript!)**
-
-- 🤝 I’m looking for help with ****DSA problem solving + CS fundamentals** (I’m actively working on interview prep and improving consistency)**
-
-- 💬 Ask me about **Javascript • React • Next.js •**
-
-  ### My Tech Stack
-
-  <div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
-  <img width="12" /> <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="sklearn logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" alt="Matplotlib logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="40" alt="Tensorflow"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
-  <img width="12" /><br>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="40" alt="mac logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="40" alt="arch logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40" alt="ubuntu logo"  />
-  <img width="12" /><br>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  />
-   <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
+<h2 align="left">My Stack</h2>
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="sklearn logo"  />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="40" alt="Tensorflow"  />
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="GPT"  />
+  
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="40" alt="express logo"  />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" alt="Kubernets logo"  />
+<br>
 </div>
 
 ### Speaking Languages which i am Learning
@@ -81,37 +37,25 @@
  <img src="assets/spain.png" alt="Spain flag" height="40" />
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-###
-
-<h3 align="left">My Stats</h3>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manasscodes&radius=16&theme=react&area=true&custom_title=Activity%20Graph&hide_border=true&hide_title=false" height="300" alt="activity-graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasscodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasscodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manasscodes&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manas_verse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manas_verse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manaskolaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaskolaskar" height="30" width="40" /></a>
-<a href="https://kaggle.com/manaskolaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manaskolaskar" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmanaskolaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmanaskolaskar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manassolves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manassolves" height="30" width="40" /></a>
-<a href="https://discord.gg/3hcDVCs7rz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3hcDVCs7rz" height="30" width="40" /></a>
-</p>
+### Connect with me Here:
+<div align="left">
+  <a href="https://www.linkedin.com/in/manaskolaskar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@manaskolaskar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://dev.to/manasscodes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://x.com/manas_verse" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/itsmanaskolaskar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
